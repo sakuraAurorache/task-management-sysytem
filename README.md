@@ -3,7 +3,7 @@ Role Track:Backend Developer
 
 # Tech Stack
 
-Language: Python 3.12
+Language: Python 3.11
 
 Framework: FastAPI
 
